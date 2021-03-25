@@ -1,0 +1,13 @@
+a textfile for text.
+
+Connect to GitHub
+
+ibrary(usethis)
+> 
+> use_git_config(user.name = "Linn Nordvall",    				   user.email = "linn.nordvall@gu.se")
+> 
+> usethis::git_sitrep()
+
+usethis::create_github_token()
+
+Hi, Filmo!
